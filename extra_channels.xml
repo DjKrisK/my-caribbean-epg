@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <!-- TV4 -->
+  <channel id="tv4.tt">
+    <display-name>TV4</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="tv4.tt">
+    <title>TV4 Programming</title>
+    <desc>General programming from TV4 Trinidad.</desc>
+  </programme>
+
+  <!-- IETV -->
+  <channel id="ietv.tt">
+    <display-name>IETV</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="ietv.tt">
+    <title>IETV Programming</title>
+    <desc>Local programming and features on IETV Trinidad.</desc>
+  </programme>
+
+  <!-- TTT -->
+  <channel id="ttt.tt">
+    <display-name>TTT Trinidad</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/8/88/TTT_TT_logo.png"/>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="ttt.tt">
+    <title>TT Programming</title>
+    <desc>General programming from TTT Trinidad.</desc>
+  </programme>
+
+  <!-- Trinity TV -->
+  <channel id="trinitytv.tt">
+    <display-name>Trinity TV</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="trinitytv.tt">
+    <title>Trinity Programming</title>
+    <desc>Religious and inspirational programming from Trinity TV.</desc>
+  </programme>
+
+  <!-- Gayelle -->
+  <channel id="gayelle.tt">
+    <display-name>Gayelle The Channel</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="gayelle.tt">
+    <title>Gayelle Programming</title>
+    <desc>Local content, news and culture from Gayelle The Channel.</desc>
+  </programme>
+
+  <!-- TV Jaagriti -->
+  <channel id="tvjaagriti.tt">
+    <display-name>TV Jaagriti</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="tvjaagriti.tt">
+    <title>TV Jaagriti Programming</title>
+    <desc>Hindu cultural and spiritual programming from TV Jaagriti Trinidad.</desc>
+  </programme>
+
+  <!-- TTEN -->
+  <channel id="tten.tt">
+    <display-name>TTEN</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="tten.tt">
+    <title>TTEN Programming</title>
+    <desc>Sports and entertainment programming from TTEN Trinidad.</desc>
+  </programme>
+
+  <!-- Rush Sports 1 -->
+  <channel id="rushsports1.tt">
+    <display-name>Rush Sports 1</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="rushsports1.tt">
+    <title>Rush Sports 1 Programming</title>
+    <desc>Sports broadcasts and highlights from Rush Sports 1.</desc>
+  </programme>
+
+  <!-- Rush Sports 2 -->
+  <channel id="rushsports2.tt">
+    <display-name>Rush Sports 2</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="rushsports2.tt">
+    <title>Rush Sports 2 Programming</title>
+    <desc>Sports broadcasts and highlights from Rush Sports 2.</desc>
+  </programme>
+
+  <!-- Rush Prime -->
+  <channel id="rushprime.tt">
+    <display-name>Rush Prime</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="rushprime.tt">
+    <title>Rush Prime Programming</title>
+    <desc>Premium sports content from Rush Prime Trinidad.</desc>
+  </programme>
+
+  <!-- Flow Sports -->
+  <channel id="flowsports.tt">
+    <display-name>Flow Sports</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="flowsports.tt">
+    <title>Flow Sports Programming</title>
+    <desc>Regional and international sports coverage from Flow Sports.</desc>
+  </programme>
+
+  <!-- ESPN Caribbean -->
+  <channel id="espncaribbean.tt">
+    <display-name>ESPN Caribbean</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="espncaribbean.tt">
+    <title>ESPN Caribbean Programming</title>
+    <desc>Sports events and analysis from ESPN Caribbean.</desc>
+  </programme>
+
+  <!-- Kris Tech TV -->
+  <channel id="kristech.tt">
+    <display-name>Kris Tech TV</display-name>
+  </channel>
+  <programme start="20250101000000 +0000" stop="20991231235959 +0000" channel="kristech.tt">
+    <title>Kris Tech TV</title>
+    <desc>Kris Tech Television.</desc>
+  </programme>
+
+  <!-- Ian Alleyne Network -->
+  <channel id="ianalleyne.tt">
+    <display-name>Ian Alleyne Network</display-name>
+  </channel>
+  <programme start="20250101174500 +0000" stop="20991231200000 +0000" channel="ianalleyne.tt">
+    <title>Crime Watch Live</title>
+    <desc>Only shows at 6 P.M. when Crime Watch is Live. Also live on weekdays at 5:45 P.M.</desc>
+  </programme>
+</channels>
